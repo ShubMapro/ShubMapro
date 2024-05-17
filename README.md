@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Shubham Mapara
+- 💬 Ask me about SQL, Python, PowerBI, Tableau, MS Excel
+- 📫 You can reach me at shubhammapara96@gmail.com
